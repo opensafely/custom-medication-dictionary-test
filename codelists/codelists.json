@@ -1,3 +1,10 @@
 {
-  "files": {}
+  "files": {
+    "opensafely-morphine-subcutaneous-dmd.csv": {
+      "id": "opensafely/morphine-subcutaneous-dmd/1185fc5b",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/morphine-subcutaneous-dmd/1185fc5b/",
+      "downloaded_at": "2023-06-26 09:53:08.955819Z",
+      "sha": "1f6b6ca26867189b219a7a8f6a20cf83d1a77f04"
+    }
+  }
 }
